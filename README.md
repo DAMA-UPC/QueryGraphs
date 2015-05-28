@@ -2,7 +2,7 @@ GROUND TRUTH USED IN PAPER: http://dx.doi.org/10.1145/2764947.2764953
 
 This is ground truth relies on IR benchmark from the ImageCLEF2011: http://www.imageclef.org/2011/Wikipedia
 
-This is ground truth identifies for each query of the benchmark:
+This ground truth identifies, for each query of the benchmark:
 	a) A set of Wikipedia articles that are mentioned in the queri's topic: <input>ARTICLES</input>
 	b) A set of Wikipedia articles whose titles in case of being used as expansion features retrieves 
 	   the best results for the query according to the ImageCLEF2011: <article_nodes>ARTICLES</article_nodes>
