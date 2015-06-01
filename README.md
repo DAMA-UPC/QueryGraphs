@@ -9,7 +9,7 @@ This ground truth identifies, for each query of the benchmark:
 
 Retrieval has been tested using INDRI (http://www.lemurproject.org/indri/) search engine.
 Indri queries are build using the COMBINE operator and exact matching operator. Titles that have a clarification 
-in brackets (eg. Grand Canal (Venice) ) are dispossessed of the it. (eg. Grand Canal).
+in brackets (eg. Grand Canal (Venice) ) are dispossessed of it. (eg. Grand Canal).
 
 The rest of the nodes (categories and main articles), as well as the connections among the different
-type of nodes can be induced directly from Wikipedia.
+type of nodes, can be induced directly from Wikipedia.
