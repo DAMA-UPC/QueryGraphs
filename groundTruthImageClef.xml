@@ -2,9 +2,9 @@
 <queries>
   <query>
     <id>71</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/volkswagen_beetle</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/style</url>
       <url>http://en.wikipedia.org/wiki/lizenz</url>
@@ -15,14 +15,14 @@
       <url>http://en.wikipedia.org/wiki/edition</url>
       <url>http://en.wikipedia.org/wiki/swedish</url>
       <url>http://en.wikipedia.org/wiki/lu%C4%8Denec</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>72</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/dinosaur</url>
       <url>http://en.wikipedia.org/wiki/skeleton</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/tyranosaurus_Rex</url>
       <url>http://en.wikipedia.org/wiki/humboldt_Museum</url>
@@ -35,14 +35,14 @@
       <url>http://en.wikipedia.org/wiki/kletno</url>
       <url>http://en.wikipedia.org/wiki/skeleton</url>
       <url>http://en.wikipedia.org/wiki/museum_f%C3%BCr_Naturkunde_Berlin</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>73</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/street_art</url>
       <url>http://en.wikipedia.org/wiki/graffiti</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/tsoi_Wall</url>
       <url>http://en.wikipedia.org/wiki/street_artist</url>
@@ -66,14 +66,14 @@
       <url>http://en.wikipedia.org/wiki/in_London</url>
       <url>http://en.wikipedia.org/wiki/wanna_Know</url>
       <url>http://en.wikipedia.org/wiki/argentinazo</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>74</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/ballet_tutu</url>
       <url>http://en.wikipedia.org/wiki/ballet_dress</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/gary_Avis</url>
       <url>http://en.wikipedia.org/wiki/dancer</url>
@@ -103,14 +103,14 @@
       <url>http://en.wikipedia.org/wiki/painted</url>
       <url>http://en.wikipedia.org/wiki/pas_de_deux</url>
       <url>http://en.wikipedia.org/wiki/edgar_Degas</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>75</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/sheep</url>
       <url>http://en.wikipedia.org/wiki/herd</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/flock</url>
       <url>http://en.wikipedia.org/wiki/wool</url>
@@ -136,13 +136,13 @@
       <url>http://en.wikipedia.org/wiki/drought</url>
       <url>http://en.wikipedia.org/wiki/auf</url>
       <url>http://en.wikipedia.org/wiki/the_Good_Shepherd</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>76</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/playing_card</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/nord</url>
       <url>http://en.wikipedia.org/w/index.php?title=Cleopatra_VII</url>
@@ -463,15 +463,15 @@
       <url>http://en.wikipedia.org/wiki/excuse</url>
       <url>http://en.wikipedia.org/wiki/l%C3%A9gende</url>
       <url>http://en.wikipedia.org/wiki/la_Papessa</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>77</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/coca-cola</url>
       <url>http://en.wikipedia.org/wiki/bottle</url>
       <url>http://en.wikipedia.org/wiki/aluminum_can</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/lilith</url>
       <url>http://en.wikipedia.org/wiki/replacement</url>
@@ -636,13 +636,13 @@
       <url>http://en.wikipedia.org/wiki/modern_history</url>
       <url>http://en.wikipedia.org/wiki/cherry_Vanilla</url>
       <url>http://en.wikipedia.org/wiki/mentioned_in_despatches</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>78</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/kiss</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/pregnancy</url>
       <url>http://en.wikipedia.org/wiki/csd</url>
@@ -955,13 +955,13 @@
       <url>http://en.wikipedia.org/wiki/john</url>
       <url>http://en.wikipedia.org/wiki/princess_M%C3%A1xima</url>
       <url>http://en.wikipedia.org/wiki/the_Lips</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>79</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/heart_%28symbol%29</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/created_By</url>
       <url>http://en.wikipedia.org/wiki/heart_%28symbol%29</url>
@@ -996,13 +996,13 @@
       <url>http://en.wikipedia.org/wiki/royalist_%28schooner%29</url>
       <url>http://en.wikipedia.org/wiki/the_Royalist</url>
       <url>http://en.wikipedia.org/wiki/railway_tracks</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>80</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/gray_wolf</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/payne%27s_grey</url>
       <url>http://en.wikipedia.org/wiki/roll</url>
@@ -1204,14 +1204,14 @@
       <url>http://en.wikipedia.org/wiki/genetic_testing</url>
       <url>http://en.wikipedia.org/wiki/maybe</url>
       <url>http://en.wikipedia.org/wiki/the_Parks_at_Chehaw</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>81</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/golf</url>
       <url>http://en.wikipedia.org/wiki/golf_course</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/w/index.php?title=The_AT</url>
       <url>http://en.wikipedia.org/wiki/telus_World_Skins_Game</url>
@@ -1229,13 +1229,13 @@
       <url>http://en.wikipedia.org/wiki/h%C3%A9l%C3%A8ne</url>
       <url>http://en.wikipedia.org/wiki/national</url>
       <url>http://en.wikipedia.org/wiki/using</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>82</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/rail_transport_modelling</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/unbekannt</url>
       <url>http://en.wikipedia.org/wiki/m%C3%A4rklin</url>
@@ -1252,14 +1252,14 @@
       <url>http://en.wikipedia.org/wiki/british_narrow_gauge_railways</url>
       <url>http://en.wikipedia.org/wiki/train_station</url>
       <url>http://en.wikipedia.org/wiki/lionel_Corporation</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>83</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/mini</url>
       <url>http://en.wikipedia.org/wiki/mini_Cooper</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/rome</url>
       <url>http://en.wikipedia.org/wiki/citroen_Dyane</url>
@@ -1325,26 +1325,26 @@
       <url>http://en.wikipedia.org/wiki/cooper</url>
       <url>http://en.wikipedia.org/wiki/victory</url>
       <url>http://en.wikipedia.org/wiki/ontario_Highway_8</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>84</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/sagrada_Fam%C3%ADlia</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/canon_fd_lens_mount</url>
       <url>http://en.wikipedia.org/wiki/julien</url>
       <url>http://en.wikipedia.org/wiki/julian</url>
       <url>http://en.wikipedia.org/wiki/sagrada_Fam%C3%ADlia</url>
       <url>http://en.wikipedia.org/wiki/lagarde</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>85</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/beijing_National_Stadium</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/nest</url>
       <url>http://en.wikipedia.org/wiki/beijing_National_Aquatics_Centre</url>
@@ -1359,24 +1359,24 @@
       <url>http://en.wikipedia.org/wiki/using</url>
       <url>http://en.wikipedia.org/wiki/architecture</url>
       <url>http://en.wikipedia.org/wiki/beijing_National_Stadium</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>86</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/kiss_%28band%29</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/kiss</url>
       <url>http://en.wikipedia.org/wiki/in_concert</url>
       <url>http://en.wikipedia.org/wiki/kiss_%28band%29</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>87</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/boxing</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/boxing</url>
       <url>http://en.wikipedia.org/wiki/bild</url>
@@ -1391,13 +1391,13 @@
       <url>http://en.wikipedia.org/wiki/king_of</url>
       <url>http://en.wikipedia.org/wiki/jim_Corbett</url>
       <url>http://en.wikipedia.org/wiki/in_Action</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>88</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/s%C3%A9gol%C3%A8ne_Royal</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/Socialist_Party_(France)</url>
       <url>http://en.wikipedia.org/wiki/political_rally</url>
@@ -1436,13 +1436,13 @@
       <url>http://en.wikipedia.org/wiki/feb_6</url>
       <url>http://en.wikipedia.org/wiki/socialism</url>
       <url>http://en.wikipedia.org/wiki/the_French</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>89</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/elvis_presley</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/richard_nixon</url>
       <url>http://en.wikipedia.org/wiki/the_King</url>
@@ -1522,14 +1522,14 @@
       <url>http://en.wikipedia.org/wiki/auf</url>
       <url>http://en.wikipedia.org/wiki/right-wing_politics</url>
       <url>http://en.wikipedia.org/wiki/item</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>90</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/venice</url>
       <url>http://en.wikipedia.org/wiki/gondola</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/the_canal</url>
       <url>http://en.wikipedia.org/wiki/mechitarists</url>
@@ -1553,14 +1553,14 @@
       <url>http://en.wikipedia.org/wiki/cannaregio_Canal</url>
       <url>http://en.wikipedia.org/wiki/house</url>
       <url>http://en.wikipedia.org/wiki/regata</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>91</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/Freestyle_BMX</url>
       <url>http://en.wikipedia.org/wiki/freestyle_motocross</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/action</url>
       <url>http://en.wikipedia.org/wiki/ailo_Gaup</url>
@@ -1726,13 +1726,13 @@
       <url>http://en.wikipedia.org/wiki/motocross</url>
       <url>http://en.wikipedia.org/wiki/niagara</url>
       <url>http://en.wikipedia.org/wiki/taiwan</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>92</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/air_racing</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/singly</url>
       <url>http://en.wikipedia.org/wiki/september_22</url>
@@ -1893,24 +1893,24 @@
       <url>http://en.wikipedia.org/wiki/training</url>
       <url>http://en.wikipedia.org/wiki/planform</url>
       <url>http://en.wikipedia.org/wiki/air_show</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>93</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/aerial_lift</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/aerial_tramway</url>
       <url>http://en.wikipedia.org/wiki/aerial_lift</url>
       <url>http://en.wikipedia.org/wiki/seilbahn</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>94</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/roller_coaster</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/xcelerator</url>
       <url>http://en.wikipedia.org/wiki/flamingoland</url>
@@ -1940,13 +1940,13 @@
       <url>http://en.wikipedia.org/wiki/busch_Gardens_Tampa_Bay</url>
       <url>http://en.wikipedia.org/wiki/blue_Tornado</url>
       <url>http://en.wikipedia.org/wiki/geiselwind</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>95</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/butterfly</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/aspect</url>
       <url>http://en.wikipedia.org/wiki/the_Wings</url>
@@ -1957,26 +1957,26 @@
       <url>http://en.wikipedia.org/wiki/hypolimnas_bolina</url>
       <url>http://en.wikipedia.org/wiki/butterfly</url>
       <url>http://en.wikipedia.org/wiki/female</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>96</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/handshake</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/hussein_I_of_Jordan</url>
       <url>http://en.wikipedia.org/wiki/handshake</url>
       <url>http://en.wikipedia.org/wiki/hussein_of_jordan</url>
       <url>http://en.wikipedia.org/wiki/exchange</url>
       <url>http://en.wikipedia.org/wiki/look</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>97</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/cake</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/contemporary_history</url>
       <url>http://en.wikipedia.org/wiki/style</url>
@@ -2033,13 +2033,13 @@
       <url>http://en.wikipedia.org/wiki/contemporary</url>
       <url>http://en.wikipedia.org/wiki/carving</url>
       <url>http://en.wikipedia.org/wiki/italian</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>98</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/alice%27s_adventures_in_wonderland</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/alice</url>
       <url>http://en.wikipedia.org/wiki/february_25</url>
@@ -2173,13 +2173,13 @@
       <url>http://en.wikipedia.org/wiki/separate</url>
       <url>http://en.wikipedia.org/wiki/ground</url>
       <url>http://en.wikipedia.org/wiki/the_Cook</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>99</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/skeleton</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/red_deer</url>
       <url>http://en.wikipedia.org/wiki/ankylosaurid</url>
@@ -2206,13 +2206,13 @@
       <url>http://en.wikipedia.org/wiki/iguanodon_bernissartensis</url>
       <url>http://en.wikipedia.org/wiki/american_museum_of_natural_history</url>
       <url>http://en.wikipedia.org/wiki/reptile</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>100</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/brown_bear</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/w/index.php?title=FWS</url>
       <url>http://en.wikipedia.org/wiki/grizzly_bear</url>
@@ -2226,13 +2226,13 @@
       <url>http://en.wikipedia.org/wiki/fish_and_Wildlife_Service</url>
       <url>http://en.wikipedia.org/wiki/brown_bear</url>
       <url>http://en.wikipedia.org/wiki/bear</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>101</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/fountain</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/mission_Street</url>
       <url>http://en.wikipedia.org/wiki/pary%C5%BC</url>
@@ -2275,13 +2275,13 @@
       <url>http://en.wikipedia.org/wiki/color_correction</url>
       <url>http://en.wikipedia.org/wiki/anglet</url>
       <url>http://en.wikipedia.org/wiki/chinese_zodiac</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>102</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/black_cat</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/serving</url>
       <url>http://en.wikipedia.org/wiki/maine_coon</url>
@@ -2498,13 +2498,13 @@
       <url>http://en.wikipedia.org/wiki/m_R</url>
       <url>http://en.wikipedia.org/wiki/alpha_%28ethology%29</url>
       <url>http://en.wikipedia.org/wiki/toilet</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>103</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/dragon</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/july_11</url>
       <url>http://en.wikipedia.org/wiki/jingxiang</url>
@@ -2538,13 +2538,13 @@
       <url>http://en.wikipedia.org/wiki/11th_July</url>
       <url>http://en.wikipedia.org/wiki/temple_Bar%2C_London</url>
       <url>http://en.wikipedia.org/wiki/display</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>104</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/che_guevara</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/the_public</url>
       <url>http://en.wikipedia.org/wiki/amend</url>
@@ -2554,13 +2554,13 @@
       <url>http://en.wikipedia.org/wiki/che_guevara</url>
       <url>http://en.wikipedia.org/wiki/decree</url>
       <url>http://en.wikipedia.org/wiki/intellectual</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>105</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/chinese_characters</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/yi_Zhou</url>
       <url>http://en.wikipedia.org/wiki/9_%28number%29</url>
@@ -2568,24 +2568,24 @@
       <url>http://en.wikipedia.org/wiki/hanzi</url>
       <url>http://en.wikipedia.org/wiki/chinese_characters</url>
       <url>http://en.wikipedia.org/wiki/east_asian_calligraphy</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>106</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/family_tree</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/genealogical_tree</url>
       <url>http://en.wikipedia.org/wiki/genealogy_tree</url>
       <url>http://en.wikipedia.org/wiki/family_tree</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>107</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/sunflower</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/helianthus</url>
       <url>http://en.wikipedia.org/wiki/edges</url>
@@ -2676,13 +2676,13 @@
       <url>http://en.wikipedia.org/wiki/inflorescence</url>
       <url>http://en.wikipedia.org/wiki/flower_head</url>
       <url>http://en.wikipedia.org/wiki/around</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>108</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/rio_Carnival</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/santa_cruz_de_tenerife</url>
       <url>http://en.wikipedia.org/wiki/occasion</url>
@@ -2834,13 +2834,13 @@
       <url>http://en.wikipedia.org/wiki/parade</url>
       <url>http://en.wikipedia.org/wiki/carnival</url>
       <url>http://en.wikipedia.org/wiki/blacks_and_Whites_Carnival</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>109</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/snowshoe</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/united_States_National_Park_Service</url>
       <url>http://en.wikipedia.org/wiki/ski_mountaineering</url>
@@ -2949,13 +2949,13 @@
       <url>http://en.wikipedia.org/wiki/modern_history</url>
       <url>http://en.wikipedia.org/wiki/skis</url>
       <url>http://en.wikipedia.org/wiki/national_park_service</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>110</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/man</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/portrait_of_Shakespeare</url>
       <url>http://en.wikipedia.org/wiki/description</url>
@@ -2975,14 +2975,14 @@
       <url>http://en.wikipedia.org/wiki/sergius_Witte</url>
       <url>http://en.wikipedia.org/wiki/auf</url>
       <url>http://en.wikipedia.org/wiki/man</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>111</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/2_euro_coins</url>
       <url>http://en.wikipedia.org/wiki/2_euro_coin</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/euros</url>
       <url>http://en.wikipedia.org/wiki/general</url>
@@ -3170,25 +3170,25 @@
       <url>http://en.wikipedia.org/wiki/church</url>
       <url>http://en.wikipedia.org/wiki/globe</url>
       <url>http://en.wikipedia.org/wiki/wiki</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>112</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/flame</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/lewes_bonfire</url>
       <url>http://en.wikipedia.org/wiki/flame</url>
       <url>http://en.wikipedia.org/wiki/portion</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>113</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/map_of_europe</url>
       <url>http://en.wikipedia.org/wiki/cartography_of_Europe</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/treaty_of_Rastatt</url>
       <url>http://en.wikipedia.org/wiki/spurensuche</url>
@@ -3200,13 +3200,13 @@
       <url>http://en.wikipedia.org/wiki/cartography_of_Europe</url>
       <url>http://en.wikipedia.org/wiki/back_to_the_roots</url>
       <url>http://en.wikipedia.org/wiki/europe_map</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>114</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/underwater_diving</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/united_States_navy</url>
       <url>http://en.wikipedia.org/wiki/bloodstream</url>
@@ -3227,13 +3227,13 @@
       <url>http://en.wikipedia.org/wiki/dj_taucher</url>
       <url>http://en.wikipedia.org/wiki/circulatory_system</url>
       <url>http://en.wikipedia.org/wiki/aquarius</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>115</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/bird_flight</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/knowledge</url>
       <url>http://en.wikipedia.org/wiki/flug</url>
@@ -3264,13 +3264,13 @@
       <url>http://en.wikipedia.org/wiki/european_herring_gull</url>
       <url>http://en.wikipedia.org/wiki/accipiter_gentilis</url>
       <url>http://en.wikipedia.org/wiki/female</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>116</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/mountain_hut</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/mastershausen</url>
       <url>http://en.wikipedia.org/wiki/den</url>
@@ -3333,13 +3333,13 @@
       <url>http://en.wikipedia.org/wiki/auf</url>
       <url>http://en.wikipedia.org/wiki/bergen</url>
       <url>http://en.wikipedia.org/wiki/gourdon</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>117</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/rose</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/juni</url>
       <url>http://en.wikipedia.org/wiki/prunus_mume</url>
@@ -3377,13 +3377,13 @@
       <url>http://en.wikipedia.org/wiki/double</url>
       <url>http://en.wikipedia.org/wiki/ume</url>
       <url>http://en.wikipedia.org/wiki/around</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>118</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/flag_of_the_united_kingdom</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/headquarters</url>
       <url>http://en.wikipedia.org/wiki/this_Island</url>
@@ -3427,14 +3427,14 @@
       <url>http://en.wikipedia.org/wiki/fair_use</url>
       <url>http://en.wikipedia.org/wiki/flag</url>
       <url>http://en.wikipedia.org/wiki/cropped</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>119</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/desert</url>
       <url>http://en.wikipedia.org/wiki/satellite_imagery</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/geography</url>
       <url>http://en.wikipedia.org/wiki/december_2007</url>
@@ -3445,13 +3445,13 @@
       <url>http://en.wikipedia.org/wiki/satellite_picture</url>
       <url>http://en.wikipedia.org/wiki/nasa</url>
       <url>http://en.wikipedia.org/wiki/inner_Niger_Delta</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
   <query>
     <id>120</id>
-    <input_nodex>
+    <input_nodes>
       <url>http://en.wikipedia.org/wiki/barcode</url>
-    </input>
+    </input_nodes>
     <expansion_nodes>
       <url>http://en.wikipedia.org/wiki/code_128</url>
       <url>http://en.wikipedia.org/wiki/association_of_language_testers_in_europe</url>
@@ -3533,6 +3533,6 @@
       <url>http://en.wikipedia.org/wiki/barcode_reader</url>
       <url>http://en.wikipedia.org/wiki/auf</url>
       <url>http://en.wikipedia.org/wiki/code</url>
-    </article_nodes>
+    </expansion_nodes>
   </query>
 </queries>
